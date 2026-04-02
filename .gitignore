@@ -1,0 +1,18 @@
+# build outputs
+/build/
+/dist/
+*.egg-info/
+*.so
+*.dylib
+*.dll
+*.pyd
+
+# python
+__pycache__/
+.pytest_cache/
+.venv/
+
+# editor
+.vscode/
+.idea/
+.DS_Store
